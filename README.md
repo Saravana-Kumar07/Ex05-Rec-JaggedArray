@@ -2,12 +2,12 @@
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 ## Algorithm:
-### Step 1: Create a new Class named cpu.
-### Step 2: Create a jagged array of 4 arrays. int[][] array = new int[][];
-### Step 3: Create as many sub-nodes as you wish inside one node of jagged array.
-### Step 4: Give the sample CPU usage in the jagged array.
-### Step 5: Print the sample CPU usage in the jagged array.
-### Step 6: End the Program.
+#### Step 1: Create a new Class named cpu.
+#### Step 2: Create a jagged array of 4 arrays. int[][] array = new int[][];
+#### Step 3: Create as many sub-nodes as you wish inside one node of jagged array.
+#### Step 4: Give the sample CPU usage in the jagged array.
+#### Step 5: Print the sample CPU usage in the jagged array.
+#### Step 6: End the Program.
 
 ## Program:
 ```
